@@ -141,6 +141,10 @@ body {
     background-color: var(--light-color);
 }
 
+.team-worker {
+    background-color: var(--primary-white-color);
+}
+
 .filters-button {
     background-color: var(--light-color);
     color: var(--brand-color);
